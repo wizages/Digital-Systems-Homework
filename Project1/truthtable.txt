@@ -1,0 +1,19 @@
+000 0
+001 0
+010 1
+011 0
+100 1
+101 1
+110 1
+111 1
+
+x1 + (x2x3') = f
+
+tutorial has 1-bit equality
+look at work.eq1(sop_arch)
+
+Simulations need to be run
+
+
+
+
