@@ -3,12 +3,14 @@
 -- Engineer: 
 -- 
 -- Create Date:    15:31:22 01/16/2016 
--- Design Name: 
+-- Design Name: 	 Homework #1
 -- Module Name:    eq3 - Behavioral 
--- Project Name: 
--- Target Devices: 
+-- Project Name:   Problem #3
+-- Target Devices: Spartan3
 -- Tool versions: 
 -- Description: 
+--
+-- 2-bit equality circuit
 --
 -- Dependencies: 
 --

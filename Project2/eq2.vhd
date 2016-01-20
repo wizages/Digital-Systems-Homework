@@ -1,14 +1,16 @@
 ----------------------------------------------------------------------------------
--- Company: 
+-- Company: N/A
 -- Engineer: 
 -- 
 -- Create Date:    08:40:36 01/16/2016 
--- Design Name: 
+-- Design Name:    Homework #2
 -- Module Name:    eq2 - Behavioral 
--- Project Name: 
--- Target Devices: 
+-- Project Name:   Problem #2
+-- Target Devices:  Spartan3
 -- Tool versions: 
 -- Description: 
+--
+-- Implements a 2-bit equality comparator
 --
 -- Dependencies: 
 --

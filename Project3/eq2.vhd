@@ -1,14 +1,16 @@
 ----------------------------------------------------------------------------------
--- Company: 
+-- Company: N/A
 -- Engineer: 
 -- 
 -- Create Date:    15:29:32 01/16/2016 
--- Design Name: 
+-- Design Name: 	 Homework #1
 -- Module Name:    eq2 - Behavioral 
--- Project Name: 
--- Target Devices: 
+-- Project Name: 	 Problem #3
+-- Target Devices: Spartan3
 -- Tool versions: 
 -- Description: 
+--
+-- 1-bit comparator circuit
 --
 -- Dependencies: 
 --

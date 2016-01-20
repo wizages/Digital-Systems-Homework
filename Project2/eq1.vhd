@@ -1,14 +1,16 @@
 ----------------------------------------------------------------------------------
--- Company: 
+-- Company: N/A
 -- Engineer: 
 -- 
 -- Create Date:    08:38:31 01/16/2016 
--- Design Name: 
+-- Design Name:    Homework #1
 -- Module Name:    eq1 - Behavioral 
--- Project Name: 
--- Target Devices: 
+-- Project Name:   Problem #2
+-- Target Devices: Spartan3
 -- Tool versions: 
 -- Description: 
+--
+-- Is a complete 1-bit equality comparator
 --
 -- Dependencies: 
 --

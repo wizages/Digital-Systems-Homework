@@ -1,12 +1,12 @@
 --------------------------------------------------------------------------------
--- Company: 
+-- Company: N/A
 -- Engineer:
 --
 -- Create Date:   08:49:10 01/16/2016
--- Design Name:   
+-- Design Name:   Homework #1
 -- Module Name:   C:/HDL/Project2/testbench.vhd
--- Project Name:  Project2
--- Target Device:  
+-- Project Name:  Problem #2
+-- Target Device:  Spartan3
 -- Tool versions:  
 -- Description:   
 -- 

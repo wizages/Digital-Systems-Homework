@@ -1,14 +1,16 @@
 ----------------------------------------------------------------------------------
--- Company: 
+-- Company: N/A
 -- Engineer: 
 -- 
 -- Create Date:    17:16:04 01/16/2016 
--- Design Name: 
+-- Design Name: 	 Homework #1
 -- Module Name:    eq2 - Behavioral 
--- Project Name: 
--- Target Devices: 
+-- Project Name:   Problem #4
+-- Target Devices: Spartan3
 -- Tool versions: 
 -- Description: 
+--
+-- A 3 to 8 bit decoder with an enable
 --
 -- Dependencies: 
 --

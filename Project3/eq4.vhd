@@ -1,14 +1,16 @@
 ----------------------------------------------------------------------------------
--- Company: 
+-- Company: N/A
 -- Engineer: 
 -- 
 -- Create Date:    15:37:26 01/16/2016 
--- Design Name: 
+-- Design Name: 	 Homework #1
 -- Module Name:    eq4 - Behavioral 
--- Project Name: 
--- Target Devices: 
+-- Project Name:   Problem #3
+-- Target Devices: Spartan3
 -- Tool versions: 
 -- Description: 
+--
+-- A full 4-bit greater-than circuit 
 --
 -- Dependencies: 
 --

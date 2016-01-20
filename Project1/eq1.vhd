@@ -1,14 +1,17 @@
 ----------------------------------------------------------------------------------
--- Company: 
+-- Company: N/A
 -- Engineer: 
 -- 
 -- Create Date:    13:01:55 01/15/2016 
--- Design Name: 
+-- Design Name: Homework #1
 -- Module Name:    eq1 - Behavioral 
--- Project Name: 
--- Target Devices: 
+-- Project Name: Problem #1
+-- Target Devices: Spartan3
 -- Tool versions: 
 -- Description: 
+--
+-- This is a HDL code for problem found at:
+-- http://webpages.sdsmt.edu/~yazhao/EE342_files/HW1-2016.pdf
 --
 -- Dependencies: 
 --
